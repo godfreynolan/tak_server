@@ -1,0 +1,19 @@
+
+
+<?xml version=\'1.0\' standalone=\'yes\'?>
+<event version="2.0" 
+	uid="GeoSafety-250289689" 
+	type="a-u-G" 
+	time="2026-01-13T15:24:53.418615Z" 
+	start="2026-01-13T15:24:53.418626Z" 
+	stale="2026-01-13T16:24:53.418644Z" 
+	how="m-g">
+	<point lat="42.7574" lon="-83.4604" hae="0.0" ce="9999999.0" le="9999999.0" />
+	<detail>
+		<usericon iconsetpath="6d781afb-89a6-4c07-b2b9-a89748b6a38f/Misc/Camp.png" />
+		<contact callsign="WARR | ACTIVE | 2590 MAIN ST" />
+		<remarks>WARRANT ARREST at 2590 MAIN ST\n\nSTATUS: ACTIVE\nDISPATCHED: 12/17/2025 4:24:04 PM\nARRIVAL: NO ARRIVAL\n\n12/17/2025 4:24:04 PM: FOC WARRANT ARREST- JOHNNY SMITH- 5/5/87\n\n</remarks>
+		<__group name="Orange" />
+	</detail>
+</event>
+
