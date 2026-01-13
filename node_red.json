@@ -1,0 +1,23 @@
+{
+    "uas_id": "DRONE-ALPHA-001",
+    "operator_id": "OP-987654",
+    "timestamp": "2026-01-07T16:45:32Z",
+    "location": {
+        "latitude": 42.7574,
+        "longitude": -83.4604,
+        "altitude_m": 120.5
+    },
+    "velocity": {
+        "ground_speed_mps": 14.2,
+        "heading_deg": 275
+    },
+    "status": {
+        "airborne": true,
+        "emergency": false
+    },
+    "control_station": {
+        "latitude": 42.7574,
+        "longitude": -83.4604,
+        "altitude_m": 30
+    }
+}
